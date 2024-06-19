@@ -1,5 +1,5 @@
 <h1>
-<img src="https://i.ibb.co/fpkpm44/Logo.png" alt="Logo" width = 800px;>
+<img src="https://i.ibb.co/fpkpm44/Logo.png" alt="Logo" width = 700px;>
 <p>Desbrave um mundo desértico lendário⌛</p>
 </h1>
 <h1>
